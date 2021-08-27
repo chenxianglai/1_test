@@ -7,3 +7,4 @@ add + 2
 GPL
 Git has a mutable index called stage
 增加一行
+git add 
